@@ -6,5 +6,6 @@ const password = "paswd@123"
 
 const user = {
     name: "Abdul",
-    email : "aalim@deqode.com"
+    email : "aalim@deqode.com",
+    role : "customer"
 }
